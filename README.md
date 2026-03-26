@@ -1,7 +1,7 @@
 # 🥖 L'épi Artisan Bakery - Inventory & Stock-Out Dashboard
 > **Optimize your bakery production by identifying stock trends in seconds.**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mlorenzon95-ops/lepi-bakery-oos-analyzer/blob/main/Untitled0.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mlorenzon95-ops/lepi-bakery-oos-analyzer/blob/main/L%27épi%20Artisan%20Bakery%20-%20Inventory%20%26%20Stock-Out%20Dashboard.ipynb)
 
 ## 🎯 What this tool does for you
 This automated dashboard helps store managers monitor weekly "Out-of-Stock" (OOS) events without manually calculating data. It creates easy-to-read **Heatmaps** that show you exactly which days and products are under-performing.
@@ -20,7 +20,7 @@ Using this tool is as simple as making a coffee:
 ## 📧 Support & Issues
 If you encounter any technical issues, need help with the Excel format, or have questions about the data, please contact the support team:
 
-*   **Email:** [mlorenzon95@gmail.com]
+*   **Email:** mlorenzon95@gmail.com
 *   **Subject:** *Support Request: L'épi OOS Analyzer*
 
 ---
