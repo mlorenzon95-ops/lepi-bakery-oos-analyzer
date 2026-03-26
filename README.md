@@ -14,12 +14,14 @@ This automated dashboard helps store managers monitor weekly "Out-of-Stock" (OOS
 Using this tool is as simple as making a coffee:
 
 1.  **Launch:** Click the blue **"Open in Colab"** button above.
-2.  **Upload:** When the program starts, click the "Upload" button and select your `oos_data.xlsx` file.
+2.  **Upload:** When the program starts, click the "Upload" button and select your Excel file.
 3.  **Analyze:** Choose the month from the dropdown menu and click **"Run Weekly Analysis"**.
 
-*Your visual reports (.png images) will be generated and downloaded automatically to your computer.*
+## 📧 Support & Issues
+If you encounter any technical issues, need help with the Excel format, or have questions about the data, please contact the support team:
+
+*   **Email:** [mlorenzon95@gmail.com]
+*   **Subject:** *Support Request: L'épi OOS Analyzer*
 
 ---
-**Contact for Support:** [mlorenzon95@gmail.com]  
 *Designed for L'épi Artisan Bakery Operations*
-
