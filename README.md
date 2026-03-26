@@ -1,4 +1,8 @@
-# 🥖 L'épi Artisan Bakery - Inventory & Stock-Out Dashboard
+<p align="center">
+  <img src="logo.png" width="250" alt="L'épi Artisan Bakery Logo">
+</p>
+
+# L'épi Artisan Bakery - Inventory & Stock-Out Dashboard
 > **Optimize your bakery production by identifying stock trends in seconds.**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mlorenzon95-ops/lepi-bakery-oos-analyzer/blob/main/L%27épi_Artisan_Bakery_Inventory_%26_Stock_Out.ipynb)
@@ -24,4 +28,3 @@ If you encounter any technical issues or need help with the Excel format, please
 
 ---
 *Designed for L'épi Artisan Bakery Operations*
-
